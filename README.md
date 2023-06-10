@@ -10,3 +10,31 @@
  Literal Table
  Base Table
  ```
+
+# Here is how it looks
+
+### Pass I assembler
+
+<img src="images\pass I.png"/>
+
+### Pass II assembler
+
+<img src = "images\pass II.png"/>
+
+
+### Symbol Table
+
+<img src = "images\symbol.png"/>
+
+<table>
+    <tr>
+        <th>Literal Table</th>
+        <th>Base Table</th>
+    </tr>
+    <tr>
+        <tr>
+            <td><img src = "images\literal.png"/></td>
+            <td><img src = "images\base.png"/></td>
+        </tr>
+    </tr>
+</table>
