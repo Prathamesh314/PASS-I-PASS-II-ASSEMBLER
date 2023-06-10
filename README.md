@@ -10,3 +10,26 @@ Symbol Table
 Base Table
 Literal Table
 ```
+
+
+# Here is how it looks
+
+### Pass I Machine Code
+
+<img src = "images\pass I.png"/>
+
+### Pass II Machine Code
+
+<img src = "images\pass II.png"/>
+
+### Symbol Table
+
+<img src = "images\symbol.png"/>
+
+### Literal Table
+
+<img src = "images\literal.png"/>
+
+### Base Table
+
+<img src = "images\base.png"/>
